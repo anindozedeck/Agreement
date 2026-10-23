@@ -12,4 +12,4 @@ This repository contains a sample project agreement for a small school engaging 
 
 See [agreement.txt](./agreement.txt) for the complete agreement, including the sample start and delivery dates, out-of-scope change terms, and sign-off lines.
 
-> This is a sample agreement. Replace the client and service provider placeholders and confirm dates and project details before sharing.
+
