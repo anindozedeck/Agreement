@@ -1,0 +1,30 @@
+# Project Agreement: Student Attendance SMS Alerts
+
+**Client:** [School name]  
+**Service provider:** [Your name/business]  
+**Project fee:** **KES 22,000**
+
+## What’s included
+- A Python script that reads the school’s agreed Excel attendance file.
+- A weekly check that identifies students marked absent on **3 or more days**.
+- An automated SMS alert to each identified student’s parent or guardian using the contact details in the file.
+- Basic testing with a sample file, plus setup instructions and a handover of the script.
+
+## What’s not included
+- Creating or correcting attendance records, or redesigning the school’s Excel file.
+- SMS charges, an SMS-provider account, or other third-party service fees.
+- Connecting the script to a school management system or building a dashboard or mobile app.
+- Ongoing hosting, maintenance, or support after handover.
+
+## Payment
+- **KES 11,000 deposit** to book the work; due before the start date.
+- **KES 11,000 final payment**; due when the working script is delivered and before the handover.
+
+## Timeline
+The **start date is the date the deposit clears**. For this sample, assuming it clears on **Monday, 26 October 2026**, work starts that day and delivery is due **Tuesday, 3 November 2026** (7 working days, excluding weekends). If the deposit clears on another date, the delivery date will move accordingly.
+
+**Changes requested after delivery that are outside the agreed scope will be quoted separately and completed only after the client approves the cost and timing.**
+
+**Agreed by:**  
+Client: ____________________  Date: __________  
+Service provider: ___________  Date: __________
